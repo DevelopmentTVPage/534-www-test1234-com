@@ -1,0 +1,15 @@
+{
+    "title": "Project A",
+    "baseURL": "https:\/\/www.test1234.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759035",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "test1234.com"
+    }
+}
